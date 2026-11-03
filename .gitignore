@@ -1,0 +1,12 @@
+.venv/
+.env
+certs/
+data/raw/
+local_store/
+build/
+*.zip
+*.pem
+*.key
+*.crt
+__pycache__/
+.pytest_cache/

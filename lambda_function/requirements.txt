@@ -1,0 +1,7 @@
+# Lambda deployment dependencies
+# These are bundled inside the ZIP alongside handler.py
+scikit-learn>=1.5
+joblib>=1.4
+numpy>=2.0
+pandas>=2.2
+boto3>=1.34
